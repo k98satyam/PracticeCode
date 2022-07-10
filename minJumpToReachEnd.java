@@ -15,6 +15,7 @@ public class minJumpToReachEnd {
             arr[i] = sc.nextInt();
         }
 
+        
         System.out.print(minJump(arr));
         sc.close();
 
