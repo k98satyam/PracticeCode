@@ -12,7 +12,7 @@ public class pascalTriangle1 {
         list.add(0, interList);
         if (numRows == 1) {
             return list;
-        }
+        } 
 
         interList = new ArrayList<Integer>();
         interList.add(1);
